@@ -2,6 +2,8 @@
 
 A portfolio project for a **Functional Business Analyst** role. It shows the full BA workflow in Figma/FigJam: discovery → current-state analysis → future-state design → solution wireframes → requirements & traceability → business case.
 
+**[View the full case study →](https://claude.ai/artifact/QbCfMPp52S9XohYMPPpMSj)**
+
 > Halden Logistics is a fictional company. All figures are illustrative portfolio data. Say so when you present it.
 
 ## The case in one paragraph
