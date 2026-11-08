@@ -8,6 +8,43 @@ A portfolio project for a **Functional Business Analyst** role. It shows the ful
 
 Halden is a 1,200-person logistics firm. Field staff claim travel expenses with an Excel template and paper receipts. Claims take **14.2 working days** to be paid, **31%** are returned at least once, and AP re-keys every line into the ERP. As the BA, you mapped the process, found 5 root-cause pain points, designed a to-be process with OCR capture, a policy engine and an ERP integration, wrote the requirements, and ran an 8-week pilot. Cycle time fell to **3.1 days**.
 
+## Case study
+
+### 1. Discovery: stakeholder map
+11 interviews and 2 process walkthroughs, plotted by power and interest to set the engagement plan.
+
+![Stakeholder map: power/interest grid with interview quotes](figma-frames/01-stakeholder-map.svg)
+
+### 2. Current state: as-is process
+The delay lives in the handoffs. Two rework loops send claims back to the employee, and 4 of the 5 pain points sit on a lane boundary.
+
+![As-is BPMN swimlane with five numbered pain points](figma-frames/02-as-is-process.svg)
+
+### 3. Future state: to-be process
+OCR capture, policy checks at entry and risk-based routing. Low-risk claims skip the manager; Finance sees only exceptions.
+
+![To-be BPMN swimlane with risk-based routing and ERP integration](figma-frames/03-to-be-process.svg)
+
+### 4. Persona journey
+The emotional low is preparing the claim, not waiting for payment, so OCR auto-fill moved to the top of the backlog.
+
+![Journey map for Priya, regional sales executive](figma-frames/04-journey-map.svg)
+
+### 5. Solution design: wireframes
+Mid-fidelity mobile and desktop screens, each tagged with the requirement IDs it satisfies.
+
+![Wireframes: scan receipt, review expense, claim submitted, approver queue](figma-frames/05-wireframes.svg)
+
+### 6. Specification: requirements and traceability
+A user story with Gherkin acceptance criteria, a MoSCoW backlog, and a matrix tracing each requirement to a pain point, screen and test case.
+
+![User story, MoSCoW backlog and requirements traceability matrix](figma-frames/06-requirements-rtm.svg)
+
+### 7. Outcomes: pilot results and business case
+Cycle time fell from 14.2 to 3.1 days over an 8-week pilot. Net annual benefit ₹9.8 lakh, 9-month payback.
+
+![KPI tiles, cycle-time chart and annual business case](figma-frames/07-impact-kpis.svg)
+
 ## What's in this folder
 
 | File | What it shows | BA skill demonstrated |
