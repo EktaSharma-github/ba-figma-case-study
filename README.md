@@ -2,7 +2,7 @@
 
 A portfolio project for a **Functional Business Analyst** role. It shows the full BA workflow in Figma/FigJam: discovery → current-state analysis → future-state design → solution wireframes → requirements & traceability → business case.
 
-**[View the full case study →](https://claude.ai/artifact/QbCfMPp52S9XohYMPPpMSj)**
+**[View the full case study →](https://ektasharma-github.github.io/ba-figma-case-study/)**
 
 > Halden Logistics is a fictional company. All figures are illustrative portfolio data. Say so when you present it.
 
@@ -58,6 +58,7 @@ Cycle time fell from 14.2 to 3.1 days over an 8-week pilot. Net annual benefit �
 | `figma-frames/05-wireframes.svg` | 3 mobile screens + desktop approver queue, annotated with requirement IDs | Functional design, UI/UX collaboration |
 | `figma-frames/06-requirements-rtm.svg` | User story + Gherkin AC, MoSCoW backlog, RTM | Requirements engineering, traceability |
 | `figma-frames/07-impact-kpis.svg` | KPI tiles, pilot chart, business case | Benefits realisation, stakeholder reporting |
+| `index.html` | The case-study page served by GitHub Pages | — |
 | `build_frames.py` | Regenerates every SVG (`python3 build_frames.py`) | — |
 
 ## Build it in Figma (about 2–3 hours)
