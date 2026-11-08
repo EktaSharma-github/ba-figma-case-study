@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080"><title>04 User Journey Map</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1B2430"/></marker></defs>
+<rect id="Frame background" x="0" y="0" width="1920" height="1080" rx="0" fill="#F3F5F8"/>
+<text x="48" y="58" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FAD" text-anchor="start" letter-spacing="1.2">04 · PERSONA JOURNEY</text>
+<text x="48" y="92" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#1B2430" text-anchor="start">Journey map: Priya, regional sales executive</text>
+<text x="48" y="120" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#5B6676" text-anchor="start">Travels 9 days a month · submits ~22 receipts · smartphone-first</text>
+<text x="1872" y="58" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="end">Halden Logistics · Expense Reimbursement Redesign</text>
+<rect x="48" y="170" width="1824" height="52" rx="6" fill="#1B2430"/>
+<text x="385.0" y="202" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">1. Spend</text>
+<text x="715.0" y="202" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">2. Collect receipts</text>
+<text x="1045.0" y="202" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">3. Prepare claim</text>
+<text x="1375.0" y="202" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">4. Approval</text>
+<text x="1705.0" y="202" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">5. Payment</text>
+<rect x="48" y="234" width="1824" height="120" rx="6" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="64" y="262" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">DOING</text>
+<line x1="550" y1="246" x2="550" y2="342" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="880" y1="246" x2="880" y2="342" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="1210" y1="246" x2="1210" y2="342" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="1540" y1="246" x2="1540" y2="342" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="244" y="272" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Pays hotel and taxi</text>
+<text x="244" y="291" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">on personal card</text>
+<text x="574" y="272" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Stuffs receipts</text>
+<text x="574" y="291" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">into wallet</text>
+<text x="904" y="272" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Types 22 rows into</text>
+<text x="904" y="291" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Excel on a Sunday</text>
+<text x="1234" y="272" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Waits; chases</text>
+<text x="1234" y="291" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">manager on chat</text>
+<text x="1564" y="272" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Checks bank</text>
+<text x="1564" y="291" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">account daily</text>
+<rect x="48" y="366" width="1824" height="100" rx="6" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="64" y="394" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">THINKING</text>
+<line x1="550" y1="378" x2="550" y2="454" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="880" y1="378" x2="880" y2="454" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="1210" y1="378" x2="1210" y2="454" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="1540" y1="378" x2="1540" y2="454" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="244" y="404" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">“Will this be</text>
+<text x="244" y="423" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">within policy?”</text>
+<text x="574" y="404" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">“Did I lose the</text>
+<text x="574" y="423" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">taxi receipt?”</text>
+<text x="904" y="404" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">“What&#x27;s the GL</text>
+<text x="904" y="423" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">code for tolls?”</text>
+<text x="1234" y="404" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">“Has anyone</text>
+<text x="1234" y="423" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">even opened it?”</text>
+<text x="1564" y="404" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">“Why is it short</text>
+<text x="1564" y="423" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">by ₹640?”</text>
+<rect x="48" y="478" width="1824" height="200" rx="6" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="64" y="506" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">FEELING</text>
+<line x1="550" y1="490" x2="550" y2="666" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="880" y1="490" x2="880" y2="666" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="1210" y1="490" x2="1210" y2="666" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="1540" y1="490" x2="1540" y2="666" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="220" y1="578.0" x2="1870" y2="578.0" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M385 585 L715 613 L1045 634 L1375 620 L1705 571" fill="none" stroke="#1F5FAD" stroke-width="2.5"/>
+<circle cx="385.0" cy="585.0" r="8" fill="#A86A00" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="715.0" cy="613.0" r="8" fill="#B93A32" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="1045.0" cy="634.0" r="8" fill="#B93A32" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="1375.0" cy="620.0" r="8" fill="#B93A32" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="1705.0" cy="571.0" r="8" fill="#0F7B6C" stroke="#FFFFFF" stroke-width="2"/>
+<text x="208" y="512" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="end">Happy</text>
+<text x="208" y="656" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="end">Frustrated</text>
+<rect x="48" y="690" width="1824" height="110" rx="6" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="64" y="718" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">PAIN POINTS</text>
+<line x1="550" y1="702" x2="550" y2="788" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="880" y1="702" x2="880" y2="788" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="1210" y1="702" x2="1210" y2="788" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="1540" y1="702" x2="1540" y2="788" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="244" y="728" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B93A32" text-anchor="start">Policy unclear</text>
+<text x="244" y="747" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B93A32" text-anchor="start">at point of spend</text>
+<text x="574" y="728" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B93A32" text-anchor="start">Thermal receipts</text>
+<text x="574" y="747" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B93A32" text-anchor="start">fade</text>
+<text x="904" y="728" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B93A32" text-anchor="start">45 min per claim</text>
+<text x="1234" y="728" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B93A32" text-anchor="start">No status</text>
+<text x="1234" y="747" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B93A32" text-anchor="start">visibility</text>
+<text x="1564" y="728" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B93A32" text-anchor="start">Deductions</text>
+<text x="1564" y="747" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#B93A32" text-anchor="start">unexplained</text>
+<rect x="48" y="812" width="1824" height="120" rx="6" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="64" y="840" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">OPPORTUNITIES</text>
+<line x1="550" y1="824" x2="550" y2="920" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="880" y1="824" x2="880" y2="920" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="1210" y1="824" x2="1210" y2="920" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<line x1="1540" y1="824" x2="1540" y2="920" stroke="#C9D1DB" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="244" y="850" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#0F7B6C" text-anchor="start">Show limit before</text>
+<text x="244" y="869" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#0F7B6C" text-anchor="start">booking</text>
+<text x="574" y="850" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#0F7B6C" text-anchor="start">Capture photo</text>
+<text x="574" y="869" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#0F7B6C" text-anchor="start">at once</text>
+<text x="904" y="850" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#0F7B6C" text-anchor="start">Auto-fill from OCR</text>
+<text x="1234" y="850" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#0F7B6C" text-anchor="start">Push status</text>
+<text x="1234" y="869" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#0F7B6C" text-anchor="start">updates</text>
+<text x="1564" y="850" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#0F7B6C" text-anchor="start">Line-level payout</text>
+<text x="1564" y="869" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#0F7B6C" text-anchor="start">breakdown</text>
+</svg>

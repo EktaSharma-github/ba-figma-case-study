@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900"><title>01 Stakeholder Map</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1B2430"/></marker></defs>
+<rect id="Frame background" x="0" y="0" width="1440" height="900" rx="0" fill="#F3F5F8"/>
+<text x="48" y="58" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FAD" text-anchor="start" letter-spacing="1.2">01 · DISCOVERY</text>
+<text x="48" y="92" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#1B2430" text-anchor="start">Stakeholder map</text>
+<text x="48" y="120" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#5B6676" text-anchor="start">Power / interest grid built from 11 interviews and 2 process walkthroughs</text>
+<text x="1392" y="58" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="end">Halden Logistics · Expense Reimbursement Redesign</text>
+<rect x="120" y="170" width="410.0" height="320.0" rx="0" fill="#FDF0D5" stroke="#C9D1DB" stroke-width="1"/>
+<text x="136" y="198" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">KEEP SATISFIED</text>
+<rect x="530.0" y="170" width="410.0" height="320.0" rx="0" fill="#E3EDF9" stroke="#C9D1DB" stroke-width="1"/>
+<text x="546.0" y="198" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">MANAGE CLOSELY</text>
+<rect x="120" y="490.0" width="410.0" height="320.0" rx="0" fill="#F3F5F8" stroke="#C9D1DB" stroke-width="1"/>
+<text x="136" y="518.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">MONITOR</text>
+<rect x="530.0" y="490.0" width="410.0" height="320.0" rx="0" fill="#DDF2EE" stroke="#C9D1DB" stroke-width="1"/>
+<text x="546.0" y="518.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">KEEP INFORMED</text>
+<path d="M120 810 L120 160" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M120 810 L950 810" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="96" y="490.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B2430" text-anchor="middle" transform="rotate(-90 96 490.0)">Power</text>
+<text x="530.0" y="846" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B2430" text-anchor="middle">Interest in the change</text>
+<g id="Stakeholder / CFO">
+<circle cx="776.0" cy="246.8" r="9" fill="#1F5FAD"/>
+<text x="792.0" y="244.8" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="start">CFO</text>
+<text x="792.0" y="261.8" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="start">Sponsor</text>
+</g>
+<g id="Stakeholder / AP Lead">
+<circle cx="759.6" cy="349.20000000000005" r="9" fill="#1F5FAD"/>
+<text x="775.6" y="347.20000000000005" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="start">AP Lead</text>
+<text x="775.6" y="364.20000000000005" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="start">Process owner</text>
+</g>
+<g id="Stakeholder / IT / ERP team">
+<circle cx="628.4" cy="400.4" r="9" fill="#1F5FAD"/>
+<text x="644.4" y="398.4" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="start">IT / ERP team</text>
+<text x="644.4" y="415.4" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="start">System owner</text>
+</g>
+<g id="Stakeholder / Internal Audit">
+<circle cx="300.4" cy="285.2" r="9" fill="#A86A00"/>
+<text x="316.4" y="283.2" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="start">Internal Audit</text>
+<text x="316.4" y="300.2" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="start">Compliance</text>
+</g>
+<g id="Stakeholder / Tax team">
+<circle cx="366.0" cy="413.2" r="9" fill="#A86A00"/>
+<text x="382.0" y="411.2" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="start">Tax team</text>
+<text x="382.0" y="428.2" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="start">GST recovery</text>
+</g>
+<g id="Stakeholder / Line managers">
+<circle cx="710.4" cy="579.6" r="9" fill="#0F7B6C"/>
+<text x="726.4" y="577.6" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="start">Line managers</text>
+<text x="726.4" y="594.6" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="start">Approvers</text>
+</g>
+<g id="Stakeholder / Field staff">
+<circle cx="743.2" cy="682.0" r="9" fill="#0F7B6C"/>
+<text x="759.2" y="680.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="start">Field staff</text>
+<text x="759.2" y="697.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="start">120 claimants/mo</text>
+</g>
+<g id="Stakeholder / Travel desk">
+<circle cx="333.20000000000005" cy="682.0" r="9" fill="#5B6676"/>
+<text x="349.20000000000005" y="680.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="start">Travel desk</text>
+<text x="349.20000000000005" y="697.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="start">Bookings</text>
+</g>
+<rect x="1000" y="170" width="392" height="640" rx="8" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="1024" y="206" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1B2430" text-anchor="start">What we heard</text>
+<rect x="1024" y="236" width="3" height="58" rx="0" fill="#1F5FAD"/>
+<text x="1040" y="250.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">“We key every receipt twice: once in</text>
+<text x="1040" y="267.55" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">the spreadsheet, once in the ERP.”</text>
+<text x="1040" y="292" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#5B6676" text-anchor="start">AP Lead</text>
+<rect x="1024" y="336" width="3" height="58" rx="0" fill="#1F5FAD"/>
+<text x="1040" y="350.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">“I wait three weeks to get my own</text>
+<text x="1040" y="367.55" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">money back.”</text>
+<text x="1040" y="392" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#5B6676" text-anchor="start">Field staff</text>
+<rect x="1024" y="436" width="3" height="58" rx="0" fill="#1F5FAD"/>
+<text x="1040" y="450.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">“Approvals arrive as email attachments.</text>
+<text x="1040" y="467.55" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">I can&#x27;t see the policy limits.”</text>
+<text x="1040" y="492" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#5B6676" text-anchor="start">Line manager</text>
+<rect x="1024" y="536" width="3" height="58" rx="0" fill="#1F5FAD"/>
+<text x="1040" y="550.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">“18% of claims last year were missing</text>
+<text x="1040" y="567.55" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">an itemised receipt.”</text>
+<text x="1040" y="592" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#5B6676" text-anchor="start">Internal Audit</text>
+<line x1="1024" y1="640" x2="1368" y2="640" stroke="#C9D1DB" stroke-width="1"/>
+<text x="1024" y="670" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B2430" text-anchor="start">RACI owner for sign-off: CFO</text>
+<text x="1024" y="692" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">Process owner: AP Lead</text>
+</svg>

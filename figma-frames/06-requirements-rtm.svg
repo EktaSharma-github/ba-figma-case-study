@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080"><title>06 Requirements &amp; RTM</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1B2430"/></marker></defs>
+<rect id="Frame background" x="0" y="0" width="1920" height="1080" rx="0" fill="#F3F5F8"/>
+<text x="48" y="58" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FAD" text-anchor="start" letter-spacing="1.2">06 · SPECIFICATION</text>
+<text x="48" y="92" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#1B2430" text-anchor="start">User stories, acceptance criteria and traceability</text>
+<text x="48" y="120" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#5B6676" text-anchor="start">MoSCoW-prioritised backlog · each requirement traced to a pain point, a screen and a UAT case</text>
+<text x="1872" y="58" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="end">Halden Logistics · Expense Reimbursement Redesign</text>
+<rect x="48" y="160" width="560" height="420" rx="10" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="72" y="196" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1B2430" text-anchor="start">FR-04 · Policy check at capture</text>
+<rect x="72" y="210" width="45.28" height="22" rx="11" fill="#FBE6E4"/>
+<text x="94.64" y="225" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#B93A32" text-anchor="middle">MUST</text>
+<rect x="140" y="210" width="72.56" height="22" rx="11" fill="#E3EDF9"/>
+<text x="176.28" y="225" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FAD" text-anchor="middle">Sprint 2</text>
+<rect x="232" y="210" width="52.1" height="22" rx="11" fill="#F3F5F8"/>
+<text x="258.05" y="225" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="middle">5 pts</text>
+<text x="72" y="268" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2430" text-anchor="start">As a claimant, I want to see when a line breaks</text>
+<text x="72" y="289" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2430" text-anchor="start">policy before I submit, so that my claim is not</text>
+<text x="72" y="310" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2430" text-anchor="start">returned days later.</text>
+<text x="72" y="352" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">ACCEPTANCE CRITERIA (Gherkin)</text>
+<text x="72" y="382" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="700" fill="#1F5FAD" text-anchor="start">Given</text>
+<text x="140" y="382" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">a lodging line in city tier B</text>
+<text x="72" y="412" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="700" fill="#1F5FAD" text-anchor="start">And</text>
+<text x="140" y="412" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">the nightly rate exceeds ₹5,500</text>
+<text x="72" y="442" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="700" fill="#1F5FAD" text-anchor="start">When</text>
+<text x="140" y="442" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">I tap Continue</text>
+<text x="72" y="472" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="700" fill="#1F5FAD" text-anchor="start">Then</text>
+<text x="140" y="472" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">the amount field shows an error state</text>
+<text x="72" y="502" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="700" fill="#1F5FAD" text-anchor="start">And</text>
+<text x="140" y="502" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">a justification field becomes mandatory</text>
+<text x="72" y="532" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="700" fill="#1F5FAD" text-anchor="start">And</text>
+<text x="140" y="532" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">the line is tagged risk = Medium</text>
+<rect x="48" y="600" width="560" height="420" rx="10" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="72" y="636" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1B2430" text-anchor="start">Backlog by priority (32 items)</text>
+<text x="72" y="680" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B2430" text-anchor="start">Must</text>
+<text x="584" y="680" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B2430" text-anchor="end">14</text>
+<rect x="72" y="692" width="512" height="18" rx="4" fill="#F3F5F8"/>
+<rect x="72" y="692" width="512.0" height="18" rx="4" fill="#B93A32"/>
+<text x="72" y="756" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B2430" text-anchor="start">Should</text>
+<text x="584" y="756" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B2430" text-anchor="end">9</text>
+<rect x="72" y="768" width="512" height="18" rx="4" fill="#F3F5F8"/>
+<rect x="72" y="768" width="329.14285714285717" height="18" rx="4" fill="#A86A00"/>
+<text x="72" y="832" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B2430" text-anchor="start">Could</text>
+<text x="584" y="832" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B2430" text-anchor="end">6</text>
+<rect x="72" y="844" width="512" height="18" rx="4" fill="#F3F5F8"/>
+<rect x="72" y="844" width="219.42857142857142" height="18" rx="4" fill="#1F5FAD"/>
+<text x="72" y="908" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B2430" text-anchor="start">Won&#x27;t (this release)</text>
+<text x="584" y="908" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B2430" text-anchor="end">3</text>
+<rect x="72" y="920" width="512" height="18" rx="4" fill="#F3F5F8"/>
+<rect x="72" y="920" width="109.71428571428571" height="18" rx="4" fill="#5B6676"/>
+<rect x="648" y="160" width="1224" height="860" rx="10" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="672" y="196" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1B2430" text-anchor="start">Requirements traceability matrix</text>
+<rect x="660" y="214" width="1200" height="34" rx="4" fill="#F3F5F8"/>
+<text x="672" y="236" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="0.8">ID</text>
+<text x="758" y="236" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="0.8">REQUIREMENT</text>
+<text x="1168" y="236" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="0.8">TYPE</text>
+<text x="1268" y="236" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="0.8">PAIN PT</text>
+<text x="1368" y="236" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="0.8">SCREEN</text>
+<text x="1528" y="236" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="0.8">UAT CASE</text>
+<text x="1668" y="236" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="0.8">STATUS</text>
+<text x="672" y="286" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">FR-01</text>
+<text x="758" y="286" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Capture receipt via camera or upload</text>
+<text x="1168" y="286" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Functional</text>
+<text x="1268" y="286" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">1</text>
+<text x="1368" y="286" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Scan receipt</text>
+<text x="1528" y="286" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">UAT-101</text>
+<rect x="1668" y="270" width="45.28" height="22" rx="11" fill="#DDF2EE"/>
+<text x="1690.64" y="285" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F7B6C" text-anchor="middle">Done</text>
+<line x1="660" y1="308" x2="1860" y2="308" stroke="#E6EAF0" stroke-width="1"/>
+<text x="672" y="342" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">FR-02</text>
+<text x="758" y="342" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">OCR extracts merchant, date, amount, GST</text>
+<text x="1168" y="342" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Functional</text>
+<text x="1268" y="342" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">1, 4</text>
+<text x="1368" y="342" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Scan receipt</text>
+<text x="1528" y="342" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">UAT-102</text>
+<rect x="1668" y="326" width="45.28" height="22" rx="11" fill="#DDF2EE"/>
+<text x="1690.64" y="341" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F7B6C" text-anchor="middle">Done</text>
+<line x1="660" y1="364" x2="1860" y2="364" stroke="#E6EAF0" stroke-width="1"/>
+<text x="672" y="398" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">FR-03</text>
+<text x="758" y="398" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Auto-suggest category and GL code</text>
+<text x="1168" y="398" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Functional</text>
+<text x="1268" y="398" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">3</text>
+<text x="1368" y="398" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Review</text>
+<text x="1528" y="398" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">UAT-103</text>
+<rect x="1668" y="382" width="65.74000000000001" height="22" rx="11" fill="#E3EDF9"/>
+<text x="1700.87" y="397" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FAD" text-anchor="middle">In test</text>
+<line x1="660" y1="420" x2="1860" y2="420" stroke="#E6EAF0" stroke-width="1"/>
+<text x="672" y="454" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">FR-04</text>
+<text x="758" y="454" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Validate line against policy at capture</text>
+<text x="1168" y="454" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Functional</text>
+<text x="1268" y="454" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">2</text>
+<text x="1368" y="454" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Review</text>
+<text x="1528" y="454" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">UAT-104</text>
+<rect x="1668" y="438" width="65.74000000000001" height="22" rx="11" fill="#E3EDF9"/>
+<text x="1700.87" y="453" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FAD" text-anchor="middle">In test</text>
+<line x1="660" y1="476" x2="1860" y2="476" stroke="#E6EAF0" stroke-width="1"/>
+<text x="672" y="510" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">FR-05</text>
+<text x="758" y="510" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Approver sees policy context per line</text>
+<text x="1168" y="510" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Functional</text>
+<text x="1268" y="510" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">2</text>
+<text x="1368" y="510" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Approvals</text>
+<text x="1528" y="510" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">UAT-105</text>
+<rect x="1668" y="494" width="52.1" height="22" rx="11" fill="#FDF0D5"/>
+<text x="1694.05" y="509" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#A86A00" text-anchor="middle">Build</text>
+<line x1="660" y1="532" x2="1860" y2="532" stroke="#E6EAF0" stroke-width="1"/>
+<text x="672" y="566" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">FR-06</text>
+<text x="758" y="566" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Bulk-approve in-policy claims</text>
+<text x="1168" y="566" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Functional</text>
+<text x="1268" y="566" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">2</text>
+<text x="1368" y="566" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Approvals</text>
+<text x="1528" y="566" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">UAT-106</text>
+<rect x="1668" y="550" width="52.1" height="22" rx="11" fill="#FDF0D5"/>
+<text x="1694.05" y="565" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#A86A00" text-anchor="middle">Build</text>
+<line x1="660" y1="588" x2="1860" y2="588" stroke="#E6EAF0" stroke-width="1"/>
+<text x="672" y="622" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">FR-07</text>
+<text x="758" y="622" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Post approved claim to ERP via API</text>
+<text x="1168" y="622" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Integration</text>
+<text x="1268" y="622" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">3</text>
+<text x="1368" y="622" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">n/a</text>
+<text x="1528" y="622" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">SIT-201</text>
+<rect x="1668" y="606" width="52.1" height="22" rx="11" fill="#FDF0D5"/>
+<text x="1694.05" y="621" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#A86A00" text-anchor="middle">Build</text>
+<line x1="660" y1="644" x2="1860" y2="644" stroke="#E6EAF0" stroke-width="1"/>
+<text x="672" y="678" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">FR-08</text>
+<text x="758" y="678" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Daily payment batch file</text>
+<text x="1168" y="678" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Integration</text>
+<text x="1268" y="678" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">5</text>
+<text x="1368" y="678" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">n/a</text>
+<text x="1528" y="678" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">SIT-202</text>
+<rect x="1668" y="662" width="65.74000000000001" height="22" rx="11" fill="#F3F5F8"/>
+<text x="1700.87" y="677" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="middle">Backlog</text>
+<line x1="660" y1="700" x2="1860" y2="700" stroke="#E6EAF0" stroke-width="1"/>
+<text x="672" y="734" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">FR-09</text>
+<text x="758" y="734" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Push status notifications</text>
+<text x="1168" y="734" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Functional</text>
+<text x="1268" y="734" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">5</text>
+<text x="1368" y="734" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Submitted</text>
+<text x="1528" y="734" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">UAT-109</text>
+<rect x="1668" y="718" width="65.74000000000001" height="22" rx="11" fill="#F3F5F8"/>
+<text x="1700.87" y="733" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="middle">Backlog</text>
+<line x1="660" y1="756" x2="1860" y2="756" stroke="#E6EAF0" stroke-width="1"/>
+<text x="672" y="790" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">BR-07</text>
+<text x="758" y="790" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Lodging cap by city tier (A ₹7k, B ₹5.5k)</text>
+<text x="1168" y="790" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Business rule</text>
+<text x="1268" y="790" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">2</text>
+<text x="1368" y="790" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Review</text>
+<text x="1528" y="790" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">UAT-104</text>
+<rect x="1668" y="774" width="45.28" height="22" rx="11" fill="#DDF2EE"/>
+<text x="1690.64" y="789" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F7B6C" text-anchor="middle">Done</text>
+<line x1="660" y1="812" x2="1860" y2="812" stroke="#E6EAF0" stroke-width="1"/>
+<text x="672" y="846" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">NFR-01</text>
+<text x="758" y="846" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">OCR result in under 4 s (p95)</text>
+<text x="1168" y="846" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Non-functional</text>
+<text x="1268" y="846" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">1</text>
+<text x="1368" y="846" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Scan receipt</text>
+<text x="1528" y="846" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">PERF-01</text>
+<rect x="1668" y="830" width="65.74000000000001" height="22" rx="11" fill="#E3EDF9"/>
+<text x="1700.87" y="845" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1F5FAD" text-anchor="middle">In test</text>
+<line x1="660" y1="868" x2="1860" y2="868" stroke="#E6EAF0" stroke-width="1"/>
+<text x="672" y="902" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="600" fill="#1F5FAD" text-anchor="start">NFR-03</text>
+<text x="758" y="902" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#1B2430" text-anchor="start">Role-based access; audit log on approve</text>
+<text x="1168" y="902" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5B6676" text-anchor="start">Non-functional</text>
+<text x="1268" y="902" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">n/a</text>
+<text x="1368" y="902" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Approvals</text>
+<text x="1528" y="902" font-family="IBM Plex Mono, Menlo, monospace" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">SEC-03</text>
+<rect x="1668" y="886" width="52.1" height="22" rx="11" fill="#FDF0D5"/>
+<text x="1694.05" y="901" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#A86A00" text-anchor="middle">Build</text>
+<line x1="660" y1="924" x2="1860" y2="924" stroke="#E6EAF0" stroke-width="1"/>
+</svg>

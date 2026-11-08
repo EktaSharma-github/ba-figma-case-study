@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900"><title>07 Impact &amp; KPIs</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1B2430"/></marker></defs>
+<rect id="Frame background" x="0" y="0" width="1440" height="900" rx="0" fill="#F3F5F8"/>
+<text x="48" y="58" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FAD" text-anchor="start" letter-spacing="1.2">07 · OUTCOMES</text>
+<text x="48" y="92" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#1B2430" text-anchor="start">Business case and pilot results</text>
+<text x="48" y="120" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#5B6676" text-anchor="start">8-week pilot with 2 regions (46 claimants) vs 6-month baseline</text>
+<text x="1392" y="58" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="end">Halden Logistics · Expense Reimbursement Redesign</text>
+<rect x="48" y="160" width="320" height="170" rx="10" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="72" y="196" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">CYCLE TIME</text>
+<text x="72" y="256" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#1B2430" text-anchor="start">3.1 d</text>
+<text x="72" y="290" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">was 14.2 d</text>
+<rect x="258" y="236" width="47.76" height="22" rx="11" fill="#DDF2EE"/>
+<text x="281.88" y="251" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#0F7B6C" text-anchor="middle">−78%</text>
+<rect x="388" y="160" width="320" height="170" rx="10" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="412" y="196" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">CLAIMS RETURNED</text>
+<text x="412" y="256" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#1B2430" text-anchor="start">7%</text>
+<text x="412" y="290" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">was 31%</text>
+<rect x="598" y="236" width="70.08" height="22" rx="11" fill="#DDF2EE"/>
+<text x="633.04" y="251" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#0F7B6C" text-anchor="middle">−24 pts</text>
+<rect x="728" y="160" width="320" height="170" rx="10" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="752" y="196" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">AP MINUTES PER CLAIM</text>
+<text x="752" y="256" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#1B2430" text-anchor="start">9</text>
+<text x="752" y="290" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">was 38</text>
+<rect x="938" y="236" width="47.76" height="22" rx="11" fill="#DDF2EE"/>
+<text x="961.88" y="251" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#0F7B6C" text-anchor="middle">−76%</text>
+<rect x="1068" y="160" width="320" height="170" rx="10" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="1092" y="196" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6676" text-anchor="start" letter-spacing="1">MISSING RECEIPTS</text>
+<text x="1092" y="256" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#1B2430" text-anchor="start">2%</text>
+<text x="1092" y="290" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">was 18%</text>
+<rect x="1278" y="236" width="70.08" height="22" rx="11" fill="#DDF2EE"/>
+<text x="1313.04" y="251" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#0F7B6C" text-anchor="middle">−16 pts</text>
+<rect x="48" y="370" width="860" height="440" rx="10" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="72" y="406" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1B2430" text-anchor="start">Average cycle time by pilot week (working days)</text>
+<line x1="118" y1="750.0" x2="868" y2="750.0" stroke="#E6EAF0" stroke-width="1"/>
+<text x="108" y="754.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="end">0</text>
+<line x1="118" y1="675.0" x2="868" y2="675.0" stroke="#E6EAF0" stroke-width="1"/>
+<text x="108" y="679.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="end">4</text>
+<line x1="118" y1="600.0" x2="868" y2="600.0" stroke="#E6EAF0" stroke-width="1"/>
+<text x="108" y="604.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="end">8</text>
+<line x1="118" y1="525.0" x2="868" y2="525.0" stroke="#E6EAF0" stroke-width="1"/>
+<text x="108" y="529.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="end">12</text>
+<line x1="118" y1="450.0" x2="868" y2="450.0" stroke="#E6EAF0" stroke-width="1"/>
+<text x="108" y="454.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="end">16</text>
+<rect x="134.66666666666666" y="483.75" width="49.99999999999999" height="266.25" rx="3" fill="#5B6676"/>
+<text x="159.66666666666666" y="475.75" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1B2430" text-anchor="middle">14.2</text>
+<text x="159.66666666666666" y="770" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="middle">Base</text>
+<rect x="217.99999999999997" y="528.75" width="49.99999999999999" height="221.25" rx="3" fill="#1F5FAD"/>
+<text x="242.99999999999997" y="520.75" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1B2430" text-anchor="middle">11.8</text>
+<text x="242.99999999999997" y="770" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="middle">W1</text>
+<rect x="301.3333333333333" y="592.5" width="49.99999999999999" height="157.5" rx="3" fill="#1F5FAD"/>
+<text x="326.3333333333333" y="584.5" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1B2430" text-anchor="middle">8.4</text>
+<text x="326.3333333333333" y="770" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="middle">W2</text>
+<rect x="384.6666666666667" y="637.5" width="49.99999999999999" height="112.5" rx="3" fill="#1F5FAD"/>
+<text x="409.6666666666667" y="629.5" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1B2430" text-anchor="middle">6.0</text>
+<text x="409.6666666666667" y="770" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="middle">W3</text>
+<rect x="468.0" y="658.125" width="49.99999999999999" height="91.875" rx="3" fill="#1F5FAD"/>
+<text x="493.0" y="650.125" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1B2430" text-anchor="middle">4.9</text>
+<text x="493.0" y="770" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="middle">W4</text>
+<rect x="551.3333333333334" y="678.75" width="49.99999999999999" height="71.25" rx="3" fill="#1F5FAD"/>
+<text x="576.3333333333334" y="670.75" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1B2430" text-anchor="middle">3.8</text>
+<text x="576.3333333333334" y="770" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="middle">W5</text>
+<rect x="634.6666666666666" y="686.25" width="49.99999999999999" height="63.75" rx="3" fill="#1F5FAD"/>
+<text x="659.6666666666666" y="678.25" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1B2430" text-anchor="middle">3.4</text>
+<text x="659.6666666666666" y="770" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="middle">W6</text>
+<rect x="718.0" y="690.0" width="49.99999999999999" height="60.0" rx="3" fill="#1F5FAD"/>
+<text x="743.0" y="682.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1B2430" text-anchor="middle">3.2</text>
+<text x="743.0" y="770" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="middle">W7</text>
+<rect x="801.3333333333333" y="691.875" width="49.99999999999999" height="58.125" rx="3" fill="#1F5FAD"/>
+<text x="826.3333333333333" y="683.875" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1B2430" text-anchor="middle">3.1</text>
+<text x="826.3333333333333" y="770" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="middle">W8</text>
+<line x1="118" y1="693.75" x2="868" y2="693.75" stroke="#0F7B6C" stroke-width="1.5" stroke-dasharray="6 4"/>
+<line x1="758" y1="401" x2="784" y2="401" stroke="#0F7B6C" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="792" y="405" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#0F7B6C" text-anchor="start">Target 3.0 d</text>
+<rect x="948" y="370" width="444" height="440" rx="10" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<text x="972" y="406" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1B2430" text-anchor="start">Annual business case</text>
+<text x="972" y="456" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2430" text-anchor="start">AP effort saved</text>
+<text x="1248" y="456" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6676" text-anchor="end">1,780 h</text>
+<text x="1368" y="456" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="end">₹8.9 L</text>
+<line x1="972" y1="474" x2="1368" y2="474" stroke="#E6EAF0" stroke-width="1"/>
+<text x="972" y="508" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2430" text-anchor="start">GST input credit recovered</text>
+<text x="1248" y="508" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6676" text-anchor="end"></text>
+<text x="1368" y="508" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="end">₹6.2 L</text>
+<line x1="972" y1="526" x2="1368" y2="526" stroke="#E6EAF0" stroke-width="1"/>
+<text x="972" y="560" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2430" text-anchor="start">Fewer duplicate payments</text>
+<text x="1248" y="560" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6676" text-anchor="end"></text>
+<text x="1368" y="560" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="end">₹2.1 L</text>
+<line x1="972" y1="578" x2="1368" y2="578" stroke="#E6EAF0" stroke-width="1"/>
+<text x="972" y="612" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2430" text-anchor="start">Licence + integration</text>
+<text x="1248" y="612" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6676" text-anchor="end"></text>
+<text x="1368" y="612" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#B93A32" text-anchor="end">−₹7.4 L</text>
+<line x1="972" y1="630" x2="1368" y2="630" stroke="#E6EAF0" stroke-width="1"/>
+<text x="972" y="690" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#1B2430" text-anchor="start">Net annual benefit</text>
+<text x="1368" y="690" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F7B6C" text-anchor="end">₹9.8 L</text>
+<text x="972" y="720" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6676" text-anchor="start">Payback: 9 months</text>
+<text x="972" y="770" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="start">All figures are illustrative portfolio data.</text>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1000" viewBox="0 0 1920 1000"><title>03 To-Be Process</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1B2430"/></marker></defs>
+<rect id="Frame background" x="0" y="0" width="1920" height="1000" rx="0" fill="#F3F5F8"/>
+<text x="48" y="58" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#1F5FAD" text-anchor="start" letter-spacing="1.2">03 · FUTURE STATE</text>
+<text x="48" y="92" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#1B2430" text-anchor="start">To-Be: digital claim with policy engine and ERP integration</text>
+<text x="48" y="120" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#5B6676" text-anchor="start">Target cycle time 3 working days · auto-approval for in-policy claims under ₹5,000</text>
+<text x="1872" y="58" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6676" text-anchor="end">Halden Logistics · Expense Reimbursement Redesign</text>
+<rect x="48" y="160" width="1824" height="130" rx="0" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<rect x="48" y="160" width="150" height="130" rx="0" fill="#EEF1F5" stroke="#C9D1DB" stroke-width="1"/>
+<text x="123.0" y="230.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="middle">Employee</text>
+<rect x="48" y="290" width="1824" height="130" rx="0" fill="#FAFBFC" stroke="#C9D1DB" stroke-width="1"/>
+<rect x="48" y="290" width="150" height="130" rx="0" fill="#EEF1F5" stroke="#C9D1DB" stroke-width="1"/>
+<text x="123.0" y="360.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="middle">Expense app</text>
+<rect x="48" y="420" width="1824" height="130" rx="0" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<rect x="48" y="420" width="150" height="130" rx="0" fill="#EEF1F5" stroke="#C9D1DB" stroke-width="1"/>
+<text x="123.0" y="490.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="middle">Line manager</text>
+<rect x="48" y="550" width="1824" height="130" rx="0" fill="#FAFBFC" stroke="#C9D1DB" stroke-width="1"/>
+<rect x="48" y="550" width="150" height="130" rx="0" fill="#EEF1F5" stroke="#C9D1DB" stroke-width="1"/>
+<text x="123.0" y="620.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="middle">Finance / AP</text>
+<rect x="48" y="680" width="1824" height="130" rx="0" fill="#FFFFFF" stroke="#C9D1DB" stroke-width="1"/>
+<rect x="48" y="680" width="150" height="130" rx="0" fill="#EEF1F5" stroke="#C9D1DB" stroke-width="1"/>
+<text x="123.0" y="750.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1B2430" text-anchor="middle">ERP</text>
+<circle cx="260" cy="225.0" r="16" fill="#FFFFFF" stroke="#1B2430" stroke-width="1.6"/>
+<text x="260" y="259.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#5B6676" text-anchor="middle">Expense incurred</text>
+<rect x="335.0" y="196.0" width="150" height="58" rx="8" fill="#E3EDF9" stroke="#1F5FAD" stroke-width="1.4"/>
+<text x="410" y="221.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">Snap receipt</text>
+<text x="410" y="237.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">in mobile app</text>
+<rect x="335.0" y="326.0" width="150" height="58" rx="8" fill="#DDF2EE" stroke="#0F7B6C" stroke-width="1.4"/>
+<text x="410" y="351.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">OCR extracts</text>
+<text x="410" y="367.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">merchant, date, tax</text>
+<rect x="525.0" y="326.0" width="150" height="58" rx="8" fill="#DDF2EE" stroke="#0F7B6C" stroke-width="1.4"/>
+<text x="600" y="351.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">Policy engine</text>
+<text x="600" y="367.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">validates lines</text>
+<polygon points="780,329.0 806,355.0 780,381.0 754,355.0" fill="#FDF0D5" stroke="#1B2430" stroke-width="1.4"/>
+<text x="780" y="359.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1B2430" text-anchor="middle">?</text>
+<text x="780" y="321.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#5B6676" text-anchor="middle">Risk band?</text>
+<rect x="885.0" y="326.0" width="150" height="58" rx="8" fill="#DDF2EE" stroke="#0F7B6C" stroke-width="1.4"/>
+<text x="960" y="351.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">Auto-approve</text>
+<text x="960" y="367.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">(low risk)</text>
+<rect x="885.0" y="456.0" width="150" height="58" rx="8" fill="#E3EDF9" stroke="#1F5FAD" stroke-width="1.4"/>
+<text x="960" y="481.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">Approve in app</text>
+<text x="960" y="497.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">with policy context</text>
+<rect x="1085.0" y="586.0" width="150" height="58" rx="8" fill="#E3EDF9" stroke="#1F5FAD" stroke-width="1.4"/>
+<text x="1160" y="611.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">Exception queue</text>
+<text x="1160" y="627.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">only flagged lines</text>
+<rect x="1285.0" y="716.0" width="150" height="58" rx="8" fill="#ECE9FA" stroke="#5B4BB7" stroke-width="1.4"/>
+<text x="1360" y="741.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">Post via API,</text>
+<text x="1360" y="757.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">GL auto-coded</text>
+<rect x="1485.0" y="716.0" width="150" height="58" rx="8" fill="#ECE9FA" stroke="#5B4BB7" stroke-width="1.4"/>
+<text x="1560" y="741.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">Daily payment</text>
+<text x="1560" y="757.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#1B2430" text-anchor="middle">batch</text>
+<circle cx="1760" cy="745.0" r="16" fill="#FFFFFF" stroke="#1B2430" stroke-width="3.5"/>
+<text x="1760" y="779.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#5B6676" text-anchor="middle">Paid + notified</text>
+<path d="M276 225.0 L335 225.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M410 254.0 L410 326.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M485 355.0 L525 355.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M675 355.0 L754 355.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M806 355.0 L885 355.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="820" y="347.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="start">Low</text>
+<path d="M780 381.0 L780 485.0 L885 485.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="790" y="477.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="start">Medium</text>
+<path d="M780 381.0 L780 615.0 L1085 615.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="790" y="607.0" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#5B6676" text-anchor="start">High / exception</text>
+<path d="M1035 355.0 L1360 355.0 L1360 716.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M1035 485.0 L1300 485.0 L1300 716.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M1235 615.0 L1260 615.0 L1260 745.0 L1285 745.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M1435 745.0 L1485 745.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M1635 745.0 L1744 745.0" fill="none" stroke="#1B2430" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="48" y="854" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1B2430" text-anchor="start">Legend</text>
+<rect x="48" y="872" width="28" height="20" rx="4" fill="#E3EDF9" stroke="#1F5FAD" stroke-width="1"/>
+<text x="86" y="887" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Human task</text>
+<rect x="308" y="872" width="28" height="20" rx="4" fill="#DDF2EE" stroke="#0F7B6C" stroke-width="1"/>
+<text x="346" y="887" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">Automated (app)</text>
+<rect x="568" y="872" width="28" height="20" rx="4" fill="#ECE9FA" stroke="#5B4BB7" stroke-width="1"/>
+<text x="606" y="887" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1B2430" text-anchor="start">System integration</text>
+<text x="900" y="854" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1B2430" text-anchor="start">Improvements traced to pain points</text>
+<text x="900" y="887" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F7B6C" text-anchor="start">1 → OCR + validation at capture</text>
+<text x="1220" y="887" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F7B6C" text-anchor="start">2 → Policy shown inline to approver</text>
+<text x="1540" y="887" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F7B6C" text-anchor="start">3 → Single entry, API posting</text>
+<text x="900" y="913" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F7B6C" text-anchor="start">4 → OCR + tax extraction</text>
+<text x="1220" y="913" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F7B6C" text-anchor="start">5 → Daily payment batch</text>
+</svg>
